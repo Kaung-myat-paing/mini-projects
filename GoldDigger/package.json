@@ -1,0 +1,12 @@
+{
+  "name": "golddigger",
+  "version": "1.0.0",
+  "description": "A widget that displays live gold prices and lets you buy instantly with one click",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "kmpg",
+  "license": "ISC"
+}
